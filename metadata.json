@@ -1,7 +1,7 @@
 {
-    "name": "Devton Token",
+    "name": "TAP Token",
     "description": "Test Devton Token for Development",
-    "symbol": "DVT",
+    "symbol": "TAP",
     "decimals": 9,
-    "image": "https://raw.githubusercontent.com/ton-blockchain/ton/master/ton-logo.png"
+    "image": "https://coinspot.io/wp-content/uploads/2024/09/snimok-ekrana-2024-09-14-v-13.31.59.png"
 }

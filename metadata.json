@@ -1,0 +1,7 @@
+{
+    "name": "Devton Token",
+    "description": "Test Devton Token for Development",
+    "symbol": "DVT",
+    "decimals": 9,
+    "image": "https://raw.githubusercontent.com/ton-blockchain/ton/master/ton-logo.png"
+}
